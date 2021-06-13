@@ -9,6 +9,6 @@ entries:
     name: spacehub-frontend
     type: application
     urls:
-    - https://matheusmercadante.github.io/spacehub-frontend/spacehub-frontend-1.0.0.tgz
-    version: 1.0.0
+    - https://matheusmercadante.github.io/spacehub-frontend/spacehub-frontend-1.0.1.tgz
+    version: 1.0.1
 generated: "2021-06-12T19:23:03.186588308-03:00"
