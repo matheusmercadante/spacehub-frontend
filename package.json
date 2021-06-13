@@ -1,6 +1,6 @@
 {
-  "name": "desafio-07",
-  "version": "0.1.0",
+  "name": "@spacehub/frontend",
+  "version": "1.0.0-alpha",
   "private": true,
   "dependencies": {
     "@unform/core": "^2.1.0",
